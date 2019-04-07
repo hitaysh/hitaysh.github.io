@@ -9,3 +9,5 @@ I can also completely turn that off if your `blog' stuff is more adding things t
 
 
 Think about what do you immediately want people to see.
+
+![stick figure math dance](/assets/mathdance.jpeg)
